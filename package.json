@@ -28,6 +28,9 @@
     "react": "16.0.0",
     "react-dom": "16.0.0"
   },
+  "resolutions": {
+    "js-yaml": "3.13.1"
+  },
   "scripts": {
     "start": "webpack-dev-server",
     "lint": "eslint './src/**/*.js' './src/**/*.jsx'",
