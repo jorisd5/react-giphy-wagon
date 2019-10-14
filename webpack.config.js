@@ -13,7 +13,7 @@ module.exports = {
     })
   ],
   devtool: 'sourcemap',
-  module: {
+  rules: {
     rules: [
       {
         test: /\.jsx?$/,
